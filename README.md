@@ -1,4 +1,4 @@
-#Notas:  
+# Notas:  
 Primer programa de consola en NodeJS
 
 ```
